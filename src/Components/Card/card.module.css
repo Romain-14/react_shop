@@ -1,0 +1,18 @@
+.card {
+	width: 85vw;
+	margin: 1rem auto;
+	padding: 1rem;
+	background-color: #fff;
+	box-shadow: 2px 2px 3px #fff;
+	border-radius: 10px;
+	color: #333;
+}
+
+.card p:nth-child(4){
+	text-align: right;
+}
+
+#myid{
+	color: green;
+}
+
